@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dhananjay.group/sitemap.xml
