@@ -1,2 +1,0 @@
-# Add the exact seller declaration supplied by your approved advertising provider.
-# Do not publish a fabricated Google AdSense publisher ID.
